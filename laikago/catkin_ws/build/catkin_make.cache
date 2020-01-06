@@ -1,0 +1,2 @@
+laikago_ros/laikago_controller:laikago_ros/laikago_description:laikago_ros/laikago_gazebo:laikago_ros/laikago_msgs:laikago_ros/laikago_real
+-DCATKIN_DEVEL_PREFIX=/home/muxiangru/laikago/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/muxiangru/laikago/catkin_ws/install -G Unix Makefiles

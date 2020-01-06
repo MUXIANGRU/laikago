@@ -1,0 +1,8 @@
+prefix=/home/unitree/catkin_ws/devel
+
+Name: laikago_gazebo
+Description: Description of laikago_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/unitree/catkin_ws/devel/lib 
+Requires: laikago_msgs

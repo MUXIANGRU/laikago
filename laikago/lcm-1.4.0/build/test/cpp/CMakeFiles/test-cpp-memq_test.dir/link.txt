@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wno-format-zero-length   CMakeFiles/test-cpp-memq_test.dir/memq_test.cpp.o CMakeFiles/test-cpp-memq_test.dir/common.cpp.o  -o test-cpp-memq_test -rdynamic ../../lcm/liblcm.so.1.4.0 ../gtest/libgtest_main.so ../gtest/libgtest.so -lpthread -Wl,-rpath,/home/unitree/lcm-1.4.0/build/lcm:/home/unitree/lcm-1.4.0/build/test/gtest 

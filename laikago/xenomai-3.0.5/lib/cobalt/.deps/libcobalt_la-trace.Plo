@@ -1,0 +1,58 @@
+libcobalt_la-trace.lo: trace.c /usr/include/stdc-predef.h \
+ ../../include/cobalt/uapi/kernel/trace.h ../../include/cobalt/trace.h \
+ /home/unitree/xenomai3.0.5_linux4.9.38_1000hz/xenomai-3.0.5/lib/cobalt/arch/x86/include/asm/xenomai/syscall.h \
+ ../../include/xeno_config.h ../../include/cobalt/uapi/syscall.h \
+ ../../include/cobalt/uapi/asm-generic/syscall.h \
+ /usr/include/linux/types.h /usr/include/x86_64-linux-gnu/asm/types.h \
+ /usr/include/asm-generic/types.h /usr/include/asm-generic/int-ll64.h \
+ /usr/include/x86_64-linux-gnu/asm/bitsperlong.h \
+ /usr/include/asm-generic/bitsperlong.h /usr/include/linux/posix_types.h \
+ /usr/include/linux/stddef.h \
+ /usr/include/x86_64-linux-gnu/asm/posix_types.h \
+ /usr/include/x86_64-linux-gnu/asm/posix_types_64.h \
+ /usr/include/asm-generic/posix_types.h \
+ /home/unitree/xenomai3.0.5_linux4.9.38_1000hz/xenomai-3.0.5/kernel/cobalt/arch/x86/include/asm/xenomai/uapi/features.h \
+ ../../include/cobalt/uapi/asm-generic/features.h \
+ /home/unitree/xenomai3.0.5_linux4.9.38_1000hz/xenomai-3.0.5/kernel/cobalt/arch/x86/include/asm/xenomai/uapi/syscall.h
+
+/usr/include/stdc-predef.h:
+
+../../include/cobalt/uapi/kernel/trace.h:
+
+../../include/cobalt/trace.h:
+
+/home/unitree/xenomai3.0.5_linux4.9.38_1000hz/xenomai-3.0.5/lib/cobalt/arch/x86/include/asm/xenomai/syscall.h:
+
+../../include/xeno_config.h:
+
+../../include/cobalt/uapi/syscall.h:
+
+../../include/cobalt/uapi/asm-generic/syscall.h:
+
+/usr/include/linux/types.h:
+
+/usr/include/x86_64-linux-gnu/asm/types.h:
+
+/usr/include/asm-generic/types.h:
+
+/usr/include/asm-generic/int-ll64.h:
+
+/usr/include/x86_64-linux-gnu/asm/bitsperlong.h:
+
+/usr/include/asm-generic/bitsperlong.h:
+
+/usr/include/linux/posix_types.h:
+
+/usr/include/linux/stddef.h:
+
+/usr/include/x86_64-linux-gnu/asm/posix_types.h:
+
+/usr/include/x86_64-linux-gnu/asm/posix_types_64.h:
+
+/usr/include/asm-generic/posix_types.h:
+
+/home/unitree/xenomai3.0.5_linux4.9.38_1000hz/xenomai-3.0.5/kernel/cobalt/arch/x86/include/asm/xenomai/uapi/features.h:
+
+../../include/cobalt/uapi/asm-generic/features.h:
+
+/home/unitree/xenomai3.0.5_linux4.9.38_1000hz/xenomai-3.0.5/kernel/cobalt/arch/x86/include/asm/xenomai/uapi/syscall.h:

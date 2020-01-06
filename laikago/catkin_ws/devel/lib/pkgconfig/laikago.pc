@@ -1,0 +1,8 @@
+prefix=/home/unitree/catkin_ws/devel
+
+Name: laikago
+Description: Description of laikago
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/unitree/catkin_ws/devel/lib 
+Requires: laikago_msgs

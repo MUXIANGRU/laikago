@@ -1,0 +1,9 @@
+libcopperplate_la-wrappers.lo: wrappers.c /usr/include/stdc-predef.h \
+ ../../include/boilerplate/compiler.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
+
+/usr/include/stdc-predef.h:
+
+../../include/boilerplate/compiler.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:

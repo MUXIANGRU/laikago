@@ -1,0 +1,8 @@
+prefix=/home/unitree/catkin_ws/devel
+
+Name: laikago_controller
+Description: Description of laikago_controller
+Version: 0.0.0
+Cflags: -I/home/unitree/catkin_ws/src/laikago_ros/laikago_controller/include
+Libs: -L/home/unitree/catkin_ws/devel/lib -llaikago_controller
+Requires: laikago_msgs controller_interface hardware_interface pluginlib roscpp
